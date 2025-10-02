@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="16x16" >
+    <file>earth_music.png</file>
+    <file>folder_music.png</file>
+  </qresource>
+</RCC>
